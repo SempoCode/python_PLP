@@ -1,4 +1,4 @@
-# File Operations in Python 🚪🔑 (1.5 hours)
+# File Operations in Python 🚪🔑 
 
  - Opening Files 🔓
 
@@ -35,7 +35,7 @@
     - Python’s with statement automatically handles closing, ensuring efficient resource management.
 
 
-# Exception Handling 🌪️ (1.5 hours)
+# Exception Handling 🌪️ 
 
 Errors happen! To make sure your programs are error-proof and user-friendly, Python provides Exception Handling. It’s the art of catching errors and handling them gracefully.
 
@@ -64,8 +64,6 @@ Errors happen! To make sure your programs are error-proof and user-friendly, Pyt
             print("File not found.")
         finally:
         file.close()
-
-
 
 # Best Practices 📏
  - Use with for file handling: Auto-close files, preventing potential leaks.
