@@ -11,9 +11,9 @@ Imagine everything as objects — a car 🚗, a book 📚, or even a cute little
  - **Methods:** Actions or behaviors that the object can perform (e.g., drive() for a car).
 
 Example: Create Your First Class!
+    
 
-
-    ```
+   ```
         # Defining a class
         class Car:
             color = "red"  # Attribute
@@ -26,7 +26,7 @@ Example: Create Your First Class!
         my_car = Car()
         print(my_car.color)
         my_car.drive()
-    ```
+   ```
 
 # OOP Principles: Inheritance, Polymorphism, and Encapsulation 👩‍🏫👨‍🏫
 
